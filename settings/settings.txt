@@ -1,0 +1,13 @@
+{
+ "jamesframpton.com": {
+  "access_token": "MTJeaTPm80VBm88hYWYnZSiaeofUabgdLVoFnQE81dw",
+  "access_token_expires_in": 604800,
+  "iat": 1609546271,
+  "protocols": [
+   "IPv4"
+  ],
+  "provider_name": "1and1",
+  "refresh_token": "MTI6lfiqCf0lFisNrBjVazLvpT6xf0fCsFmCgT4iVEQ",
+  "url_api": "https://api.domainconnect.1and1.com"
+ }
+}
